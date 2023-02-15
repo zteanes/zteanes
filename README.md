@@ -9,3 +9,4 @@ The languages that I currently know:
   - JavaScript
   - Python
   - MIPS (assembly)
+  - C (learning)
