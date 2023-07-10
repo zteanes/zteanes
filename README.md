@@ -10,3 +10,5 @@ The languages that I currently know:
   - Python
   - MIPS (assembly)
   - C
+
+I have also worked with HTML, CSS, and the Django framework, working some in front end development. 
