@@ -6,9 +6,9 @@ assignments, and other programming things I've worked on.
 
 The languages that I currently know:
   - Java
-  - JavaScript
   - Python
-  - MIPS (assembly)
+  - JavaScript
   - C
+  - MIPS (assembly)
 
 I have also worked with HTML, CSS, and the Django framework, working some in front end development. 
