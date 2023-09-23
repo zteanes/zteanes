@@ -1,6 +1,6 @@
 # Hi there, I'm Zach! I'm a student at Western Carolina Studying Computer Science and Mathematics with a focus of Data Science.
 
-<img align="left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=zteanes&show_icons=true&theme=onedark" />
+<img align="left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=zteanes&show_icons=true&theme=tokyonight" />
 <img align="left" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zteanes&layout=compact" />
 
 [//]: # (Languages)
