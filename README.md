@@ -1,4 +1,4 @@
-# Hi there, I'm Zach! I'm a student at Western Carolina Studying Computer Science and Mathematics with a focus of Data Science.
+# Hello world, I'm Zach! I'm a student at Western Carolina Studying Computer Science and Mathematics (Data Science).
 
 [//]: # (Languages)
 <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
